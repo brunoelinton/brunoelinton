@@ -3,7 +3,8 @@
 
 Here are some ideas to get you started:
 -->
- Hi, i'm Bruno Guimarães 👋
+ Hi, I'm Bruno Guimarães 👋
+- 👨‍🎓 I'm a computer engineering student at the Federal University of Espírito Santo (UFES).
 - 🔭 I’m currently working on Java and Spring Boot
 - 🌱 I’m currently learning REST API and REACT JS
 - 📫 How to reach me: brunoelinton@outlook.com 
